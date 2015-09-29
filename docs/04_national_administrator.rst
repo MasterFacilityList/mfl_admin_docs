@@ -2,42 +2,283 @@ The National Adminstrator Role
 ==================================
 TODO
 
-Intitial System Configuration
-++++++++++++++++++++++++++++++
+County Management
++++++++++++++++++++++++++++++++++++
 TODO
+
+.. figure:: /_images/national_admin/01_initial_system_configuration_counties.png
+    :scale: 100%
+    :alt: County Management
+
+Constituency Management
++++++++++++++++++++++++++++++++++++
+TODO
+
+.. figure:: /_images/national_admin/02_sys_config_constituencies.png
+    :scale: 100%
+    :alt: Consituency Management
+
+
+Sub-County Management
++++++++++++++++++++++++++++++++++++
+TODO
+
+.. figure:: /_images/national_admin/03_sub_counties.png
+    :scale: 100%
+    :alt: Sub-County Management
+
+Wards Management
++++++++++++++++++++++++++++++++++++
+TODO
+
+.. figure:: /_images/national_admin/04_wards.png
+    :scale: 100%
+    :alt: Wards Management
+
+
+Towns Management
++++++++++++++++++++++++++++++++++++
+TODO
+
+.. figure:: /_images/national_admin/05_towns.png
+    :scale: 100%
+    :alt: Town Management
+
+.. figure:: /_images/national_admin/05_b_save_new_town.png
+    :scale: 100%
+    :alt: Town Management
+
 
 Service Catalog Management
-+++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++
 TODO
 
-Service Catagories
+Service Categories
+-------------------------
+
+.. figure:: /_images/national_admin/06_service_categories.png
+    :scale: 100%
+    :alt: Service Category
+
+.. figure:: /_images/national_admin/06_b_save_new_category.png
+    :scale: 100%
+    :alt: Add a new Service Category
+
+Services
+------------------------------
+
+.. figure:: /_images/national_admin/06_c_services.png
+    :scale: 100%
+    :alt: List Services
+
+.. figure:: /_images/national_admin/06_d_save_new_service.png
+    :scale: 100%
+    :alt: Add a New Service
+
+Option Groups
+-------------------------------
+
+.. figure:: /_images/national_admin/06_e_option_groups.png
+    :scale: 100%
+    :alt: List Option Groups
+
+.. figure:: /_images/national_admin/06_f_save_new_option_group.png
+    :scale: 100%
+    :alt: Save New option Group
+
+
+Contact Types Management
++++++++++++++++++++++++++++++++++
+TODO
+
+.. figure:: /_images/national_admin/07_a_contact_types.png
+    :scale: 100%
+    :alt: List Contact Types
+
+.. figure:: /_images/national_admin/07_b_save_new_contact_type.png
+    :scale: 100%
+    :alt: Add a new Contact Type
+
+
+Facility Departments Management
+++++++++++++++++++++++++++++++++++++++++
+
+.. figure:: /_images/national_admin/08_facility_department.png
+    :scale: 100%
+    :alt: List Facility Departments
+
+.. figure:: /_images/national_admin/08_b_create_facility_deparment.png
+    :scale: 100%
+    :alt: Add a new Facility Department
+
+
+Public Feedback on Facilities
++++++++++++++++++++++++++++++++++++++++
+
+.. figure:: /_images/national_admin/09_rating_comments.png
+    :scale: 100%
+    :alt: Show user feedback
+
+Facility Owner's Management
+++++++++++++++++++++++++++++++++++++++++++++
+
+Facility Owner Categories
+--------------------------------------
+
+.. figure:: /_images/national_admin/10_b_owner_categories.png
+    :scale: 100%
+    :alt: List owner categories
+
+.. figure:: /_images/national_admin/10_c_save_new_category.png
+    :scale: 100%
+    :alt: Create a facility owner category
+
+
+Facility Owners
+--------------------------------------
+
+.. figure:: /_images/national_admin/10_facility_owners.png
+    :scale: 100%
+    :alt: List Facility Owners
+
+.. figure:: /_images/national_admin/10_a_facility_owners_creation.png
+    :scale: 100%
+    :alt: Create a facility owner
+
+
+Job-title Management
++++++++++++++++++++++++++++++++++++++
+
+.. figure:: /_images/national_admin/11_a_job_titles.png
+    :scale: 100%
+    :alt: List job-titles
+
+.. figure:: /_images/national_admin/11_b_save_new_job_title.png
+    :scale: 100%
+    :alt: Create a new job-title
+
+
+Regulatory Body Management
+++++++++++++++++++++++++++++++++++++++++
+
+.. figure:: /_images/national_admin/12_a_save_new_reguatory_body.png
+    :scale: 100%
+    :alt: Create a new Regulatory Body
+
+.. figure:: /_images/national_admin/12_regulatory_bodies.png
+    :scale: 100%
+    :alt: List Regulatory Bodies
+
+
+Upgrade/Downgrade Reasons Management
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. figure:: /_images/national_admin/13_resons_for_upgrade_and_downgrade.png
+    :scale: 100%
+    :alt: List Upgrade/Downgrade Reasons
+
+.. figure:: /_images/national_admin/13_b_save_new_reason.png
+    :scale: 100%
+    :alt: Create New Upgrade/Downgrade Reasons
+
+
+KEPH Levels Management
++++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. figure:: /_images/national_admin/14_keph_levels.png
+    :scale: 100%
+    :alt: List KEPH Levels
+
+.. figure:: /_images/national_admin/14_b_create_new_keph_level.png
+    :scale: 100%
+    :alt: Create A new KEPH Level
+
+
+Public Feedback on Community Units
+++++++++++++++++++++++++++++++++++++
+
+.. figure:: /_images/national_admin/15_chu_rating_comments.png
+    :scale: 100%
+    :alt: Show Community Unit User Feedback
+
+
+Document Management
++++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. figure:: /_images/national_admin/16_documents.png
+    :scale: 100%
+    :alt: List Documents
+
+.. figure:: /_images/national_admin/16_b_save_new_document.png
+    :scale: 100%
+    :alt: Save a New Document
+
+
+Geo-code Method Management
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. figure:: /_images/national_admin/17_geo_code_method.png
+    :scale: 100%
+    :alt: List Geo-Code Methods
+
+.. figure:: /_images/national_admin/17_b_save_new_geo_code_method.png
+    :scale: 100%
+    :alt: Create  a New Geo-code Method
+
+
+Geo-Code Source Management
+++++++++++++++++++++++++++++++++++++++++++++
+
+.. figure:: /_images/national_admin/18_geo-code-sources.png
+    :scale: 100%
+    :alt: List Geo-code Sources
+
+.. figure:: /_images/national_admin/18_b_save_new_geo_source_code.png
+    :scale: 100%
+    :alt: Save new Geo-code Source
+
+
+User Roles Management
+++++++++++++++++++++++++++++++++++++++
+
+Roles Management
+----------------------------------
+
+.. figure:: /_images/national_admin/20_b_create_new_group.png
+    :scale: 100%
+    :alt: Create A New Role
+
+.. figure:: /_images/national_admin/20_groups.png
+    :scale: 100%
+    :alt: List user Roles
+
+User Management
+----------------------------------------
+
+.. figure:: /_images/national_admin/21_list_users.png
+    :scale: 100%
+    :alt: List Users
+
+Add a New User
 ---------------------
-TODO
 
-Creation Of Services
-------------------------
-TODO
+.. figure:: /_images/national_admin/21_user_basic.png
+    :scale: 100%
+    :alt: Fill in user Basic Details
 
-Updating Of Services
----------------------------
-TODO
+.. figure:: /_images/national_admin/21_c_user_contacts.png
+    :scale: 100%
+    :alt: Add User Contacts
 
-Deletion of Services
---------------------------
-TODO
+.. figure:: /_images/national_admin/21_d_add_user_group.png
+    :scale: 100%
+    :alt: Add User Contacts
 
-User Groups Management
-+++++++++++++++++++++++++++
-TODO
+.. figure:: /_images/national_admin/21_e_assign_user_county.png
+    :scale: 100%
+    :alt: Assign User to a County
 
-Creation of a Group
---------------------------
-
-TODO
-
-Assigning users to group
------------------------------
-TODO
 
 .. toctree::
    :maxdepth: 2
+
