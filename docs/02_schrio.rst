@@ -1,10 +1,23 @@
-Sub-County Health Records Officer Role
-=======================================
-TODO
+Sub-County Health Records Officer (SCHRIO) Role
+=================================================
+This is the officer who operates at the Sub-county level.
 
-Listing Facilities in Sub-County
-+++++++++++++++++++++++++++++++++
-TODO
+**The main responsibility include:**
+    #. Registering new facilities
+    #. Updating facility details
+    #. Upgrading and downgrading facilities
+    #. Creating the facility officers
+
+.. note::
+    In order to try out the functions contained in this section, it is assumed that
+    one has read the :doc:`01_intro` section and has logged into the system.
+
+
+Listing Facilities in User's Sub-County
++++++++++++++++++++++++++++++++++++++++++++++
+To list facilities in the logged in user's sub-county one should be click on
+the  facilities link in the main navigation bar. The diagram below illustrates
+this action.
 
 .. figure:: /_images/schrio/01_list_list_facilities_grid.png
     :scale: 100%
@@ -13,45 +26,63 @@ TODO
 
 Creating Facilities
 ++++++++++++++++++++++++++++++++++++++
-TODO
+To create a new facility, the user should click the ``Add Facility button`` in
+the facilities grid shown above.
 
-Basic Details
+On clicking the button, a screen with sections labelled 1 to 5 is displayed.
+
+1) Basic Details
 ---------------------------------------
-TODO
+The first section contains the **basic (primary)** details of a facility.
+This section must be filled out in order to proceed to the other sections.
 
 .. figure:: /_images/schrio/02_a_add_facility_basic_details.png
     :scale: 100%
     :alt: Add a Facility's Basic Details
 
-Geo-location Details
+2) Geo-location Details
 ----------------------------------------------------
-TODO
+After one has filled in the basic details, one is allowed to proceed to second
+section of the screen where a facility's geocodes are captured.
+
+*It is possible to drag the marker on the map to update the coordinates of
+a facility.*
 
 .. figure:: /_images/schrio/02_b_add_geo_location_details.png
     :scale: 100%
     :alt: Add a Facility's Geo-location Details
 
-Facility Contacts Details
+3) Facility Contacts Details
 ---------------------------------------------------
-TODO
+A facility's contacts are captured in this section.
+The contacts can be as many as a facility has.
+For example, postal, email, mobile, fax, landline etc.
 
 .. figure:: /_images/schrio/02_c_add_facility_contacts.png
     :scale: 100%
     :alt: Add a Facility's Contacts
 
 
-Facility Regulation Details
+4) Facility Regulation Details
 ---------------------------------------
-TODO
+This is an optional section that captures the departments in a hospital
+such as laboratories and pharmacies.
+The departments are picked from the drop down menu.
 
 .. figure:: /_images/schrio/02_d_add_facility_regulation.png
     :scale: 100%
     :alt: Add a Facility's Departments
 
 
-Facility Service Details
+5) Facility Service Details
 ---------------------------------------
-TODO
+This is the final section. It is compulsory and captures the services
+offered in a facility.
+One picks a category from the widget on the left which populates the services
+under that category in the widget on the right. One can select the option level
+which a facility offers a certain service say *Basic*
+
+The process is as shown below:
 
 .. figure:: /_images/schrio/02_e_add_faiclity_services.png
     :scale: 100%
@@ -59,29 +90,27 @@ TODO
 
 Facility Created
 -------------------------------------------------
-TODO
+On clicking the ``Submit Button`` after adding the services, the user is
+redirected to a screen where he/she can review the information entered.
+It is at this screen that the user can also print the **cover report.**
 
 .. figure:: /_images/schrio/02_f_facility_created.png
     :scale: 100%
     :alt: Facility Created Successfully
 
-Facility Cover Report
-------------------------------
-TODO
-
-
-Facility Correction Template
------------------------------------
-TODO
-
-
 Updating a Facilty's Details
 ++++++++++++++++++++++++++++++++++++++
-TODO
+To update a facility, one can start by listing all facilities, then picking the
+desired facility from the list as shown below.
 
 .. figure:: /_images/schrio/3_a_edit_facility.png
     :scale: 100%
     :alt: List of Facilities
+
+The process of editing a facility is very similar to the creation process,
+the only difference being there is an option out of the process through
+clicking the ``Finish Button`` at the bottom of every screen as the figures
+below show:
 
 .. figure:: /_images/schrio/3_b_edit_facility.png
     :scale: 100%
@@ -90,7 +119,6 @@ TODO
 .. figure:: /_images/schrio/3_c_edit_facility_the_finish_button.png
     :scale: 100%
     :alt: The Finish Button
-
 
 
 
