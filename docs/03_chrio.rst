@@ -16,6 +16,16 @@ Approving/Rejecting Facilities
 ++++++++++++++++++++++++++++++++++++++
 TODO
 
+Listing Facilities Pending approval
+------------------------------------------
+TODO
+
+
+.. figure:: /_images/chrio/04_a_facilities_pending_approval_list.png
+    :scale: 100%
+    :alt: List of facilities pending approval
+
+
 Approving /Rejecting Newly Created Facilities
 ---------------------------------------------------
 TODO
@@ -75,31 +85,42 @@ TODO
 
 .. figure:: /_images/chrio/06_facilities_pending_publishing.png
     :scale: 100%
-    :alt: Approve Newly Created Facilities
+    :alt: : List of facilities pending approval
 
 
 .. figure:: /_images/chrio/facility_publish.png
     :scale: 100%
-    :alt: Approve Newly Created Facilities
+    :alt: Publish a facility
 
 
 Unpublishing a facility
 ---------------------------------
 TODO
 
-.. figure:: /_images/chrio/facility_publish.png
+.. figure:: /_images/chrio/06_c_facility_unpublish.png
     :scale: 100%
     :alt: Approve Newly Created Facilities
 
+.. figure:: /_images/chrio/06_d_facility_unpublish.png
+    :scale: 100%
+    :alt: Unpublish a published facility
 
 
 Closing Facilities
 +++++++++++++++++++++++++++++++++++++++++++
 TODO
 
+.. figure:: /_images/chrio/07_a_closing_a_facility.png
+    :scale: 100%
+    :alt: Close a facility
+
+.. figure:: /_images/chrio/07_b_closing_a_facility.png
+    :scale: 100%
+    :alt: Close a facility
+
 .. figure:: /_images/chrio/07_closing_a_facility.png
     :scale: 100%
-    :alt: Approve Newly Created Facilitie
+    :alt: Close a facility
 
 Listing Closed Facilities
 -----------------------------------------------
@@ -194,6 +215,25 @@ TODO
 TODO
 
 
+Deleting a user
+-------------------------------
+
+
+.. figure:: /_images/chrio/10_c_user_delete.png
+    :scale: 100%
+    :alt: Delete User
+
+.. figure:: /_images/chrio/10_d_user_delete.png
+    :scale: 100%
+    :alt: Delete User
+
+
+.. figure:: /_images/chrio/10_e_user_delete.png
+    :scale: 100%
+    :alt: Delete User
+
+
+
 Listing Community Health Units
 ++++++++++++++++++++++++++++++++++++++++++++
 TODO
@@ -232,6 +272,11 @@ Listing Units Pending Approval
 Listing approved Community Health Units
 -----------------------------------------------
 TODO
+
+
+.. figure:: /_images/chrio/12_a_approved_community_units.png
+    :scale: 100%
+    :alt: Update user detail
 
 
 Rejection of Community Health Units
