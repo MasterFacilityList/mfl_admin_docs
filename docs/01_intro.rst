@@ -6,7 +6,7 @@ Introduction
 
 
 Login
-============
++++++++++++++++++++++++++++
 .. figure:: /_images/chrio/01_b_login.png
     :scale: 100%
     :alt: How to login to MFL
@@ -24,10 +24,8 @@ Resetting forgotten password
     :scale: 100%
     :alt: The reset password form link
 
-
-
 Dashboard
-=============
+++++++++++++++++++++++++++
 .. figure:: /_images/chrio/01_a_dashboard.png
     :alt: Master Facility Dashboard
 
