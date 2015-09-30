@@ -15,8 +15,8 @@ This is the officer who operates at the Sub-county level.
 
 Listing Facilities in User's Sub-County
 +++++++++++++++++++++++++++++++++++++++++++++
-To list facilities in the logged in user's sub-county one should be click on
-the  facilities link in the main navigation bar. The diagram below illustrates
+To list facilities in the logged in user's sub-county one should click on
+the facilities link in the main navigation bar. The diagram below illustrates
 this action.
 
 .. figure:: /_images/schrio/01_list_list_facilities_grid.png
@@ -25,15 +25,15 @@ this action.
 
 
 Creating Facilities
-++++++++++++++++++++++++++++++++++++++
-To create a new facility, the user should click the ``Add Facility button`` in
+++++++++++++++++++++
+To create a new facility, the user should click the ``Add Facility`` button in
 the facilities grid shown above.
 
 On clicking the button, a screen with sections labelled 1 to 5 is displayed.
 
 1) Basic Details
 ---------------------------------------
-The first section contains the **basic (primary)** details of a facility.
+This section contains the **basic (primary)** details of a facility.
 This section must be filled out in order to proceed to the other sections.
 
 .. figure:: /_images/schrio/02_a_add_facility_basic_details.png
@@ -42,11 +42,11 @@ This section must be filled out in order to proceed to the other sections.
 
 2) Geo-location Details
 ----------------------------------------------------
-After one has filled in the basic details, one is allowed to proceed to second
-section of the screen where a facility's geocodes are captured.
+After filling in the basic details, one is allowed to proceed to the second
+section of the screen where a facility's geocodes are entered.
 
-*It is possible to drag the marker on the map to update the coordinates of
-a facility.*
+The marker on the map can be dragged in order to update the coordinates of
+a facility.
 
 .. figure:: /_images/schrio/02_b_add_geo_location_details.png
     :scale: 100%
@@ -55,8 +55,7 @@ a facility.*
 3) Facility Contacts Details
 ---------------------------------------------------
 A facility's contacts are captured in this section.
-The contacts can be as many as a facility has.
-For example, postal, email, mobile, fax, landline etc.
+The contacts can be as many as a facility has e.g. postal, email, mobile, fax, landline etc.
 
 .. figure:: /_images/schrio/02_c_add_facility_contacts.png
     :scale: 100%
@@ -65,8 +64,7 @@ For example, postal, email, mobile, fax, landline etc.
 
 4) Facility Regulation Details
 ---------------------------------------
-This is an optional section that captures the departments in a hospital
-such as laboratories and pharmacies.
+This section captures the departments in a hospital such as laboratories and pharmacies.
 The departments are picked from the drop down menu.
 
 .. figure:: /_images/schrio/02_d_add_facility_regulation.png
@@ -76,13 +74,10 @@ The departments are picked from the drop down menu.
 
 5) Facility Service Details
 ---------------------------------------
-This is the final section. It is compulsory and captures the services
-offered in a facility.
+This section captures the services offered in a facility.
 One picks a category from the widget on the left which populates the services
 under that category in the widget on the right. One can select the option level
-which a facility offers a certain service say *Basic*
-
-The process is as shown below:
+which a facility offers a certain service.
 
 .. figure:: /_images/schrio/02_e_add_faiclity_services.png
     :scale: 100%
@@ -90,13 +85,14 @@ The process is as shown below:
 
 Facility Created
 -------------------------------------------------
-On clicking the ``Submit Button`` after adding the services, the user is
-redirected to a screen where he/she can review the information entered.
-It is at this screen that the user can also print the **cover report.**
+On clicking the ``Submit`` button after adding the services, the user is
+redirected to a screen where they can review the information entered.
+It is at this screen that the user can also print the facility's **cover report.**
 
 .. figure:: /_images/schrio/02_f_facility_created.png
     :scale: 100%
     :alt: Facility Created Successfully
+
 
 Updating a Facilty's Details
 ++++++++++++++++++++++++++++++++++++++
@@ -108,8 +104,8 @@ desired facility from the list as shown below.
     :alt: List of Facilities
 
 The process of editing a facility is very similar to the creation process,
-the only difference being there is an option out of the process through
-clicking the ``Finish Button`` at the bottom of every screen as the figures
+the only difference being there is an option out of the process by
+clicking the ``Finish`` button at the bottom of every screen as the figures
 below show:
 
 .. figure:: /_images/schrio/3_b_edit_facility.png
