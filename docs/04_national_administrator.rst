@@ -15,7 +15,7 @@ County Management
 +++++++++++++++++++++++++++++++++++
 To begin on system setup the National Administrator should click the
 ``System Setup link`` on the main navigation bar this opens up a view with
-``Counties link`` on the sidebar highlighted listing all Counties. On the top right of the screen below a user can click the Add County button to add a new county or click view in the list to view a particular county and to edit details of the same.
+``Counties link`` on the sidebar highlighted listing all Counties. On the top right of the screen below a user can click the ``Add County`` button to add a new county or click view in the list to view a particular county and to edit details of the same.
 
 .. figure:: /_images/national_admin/01_initial_system_configuration_counties.png
     :scale: 100%
@@ -23,7 +23,7 @@ To begin on system setup the National Administrator should click the
 
 Constituency Management
 +++++++++++++++++++++++++++++++++++
-The next link on the sidebar is the ``Constituencies link``. The National Administrator can carry out the same tasks as in County, where the there's an Add Constituency button in the top right of the image below. To view and edit details of a constituency the user clicks the View button in the grid aligned to the particular Constituency record of interest to the user.
+The next link on the sidebar is the ``Constituencies link``. The National Administrator can carry out the same tasks as in County, where the there's an ``Add Constituency`` button in the top right of the image below. To view and edit details of a constituency the user clicks the View button in the grid aligned to the particular constituency record of interest to the user.
 
 .. figure:: /_images/national_admin/02_sys_config_constituencies.png
     :scale: 100%
@@ -32,7 +32,7 @@ The next link on the sidebar is the ``Constituencies link``. The National Admini
 
 Sub-County Management
 +++++++++++++++++++++++++++++++++++
-To manage Sub-counties, the National Administrator clicks ``Sub-Counties link`` on the sidebar that list all sub-counties with a view button. The user clicks the view button if they would like to view details of the single Sub-county or edit details of the same. To the top right of the Sub-county list is the Add sub-county button which user clicks to take them to the view where they input details of a new Sub-county and save these details.
+To manage sub-counties, the National Administrator clicks ``Sub-Counties link`` on the sidebar that list all sub-counties with a view button. The user clicks the view button if they would like to view details of the single sub-county or edit details of the same. To the top right of the Sub-county list is the ``Add Sub-county`` button which user clicks to take them to the view where they input details of a new Sub-county and save these details.
 
 .. figure:: /_images/national_admin/03_sub_counties.png
     :scale: 100%
@@ -40,7 +40,7 @@ To manage Sub-counties, the National Administrator clicks ``Sub-Counties link`` 
 
 Wards Management
 +++++++++++++++++++++++++++++++++++
-For wards management the National Administrator clicks the ``Wards link`` on the sidebar pulling up a view like the previous admin units. The Add Ward button is to the top right for adding a new ward. The view button in the grid inline with a particular record is to enable a user view and edit details of a particular ward.
+For wards management the National Administrator clicks the ``Wards link`` on the sidebar pulling up a view like the previous admin units. The ``Add Ward`` button is to the top right for adding a new ward. The view button in the grid inline with a particular record is to enable a user view and edit details of a particular ward.
 
 .. figure:: /_images/national_admin/04_wards.png
     :scale: 100%
@@ -49,13 +49,13 @@ For wards management the National Administrator clicks the ``Wards link`` on the
 
 Towns Management
 +++++++++++++++++++++++++++++++++++
-To carry out Towns management, the National Administrator clicks the ``Town link`` on the sidebar. This lists all towns in a grid. To the top right is the New Town button enabling a user add a new Town. In the Towns grid there is an inlined View button in each record to enable a user view and make edits to records of a particular town.
+To carry out towns management, the National Administrator clicks the ``Town link`` on the sidebar. This lists all towns in a grid. To the top right is the ``New Town`` button enabling a user add a new town. In the towns grid there is an inlined View button in each record to enable a user view and make edits to records of a particular town.
 
 .. figure:: /_images/national_admin/05_towns.png
     :scale: 100%
     :alt: Town Management
 
-Below is the next view after a user clicks the New Town button, which is a form requiring the user to input the name of the new town after which they click the Save button in order to save the town as shown below.
+Below is the next view after a user clicks the ``New Town`` button, which is a form requiring the user to input the name of the new town after which they click the Save button in order to save the town as shown below.
 
 .. figure:: /_images/national_admin/05_b_save_new_town.png
     :scale: 100%
@@ -82,10 +82,13 @@ On clicking the ``Add Category link`` the view below is brought up, for user to 
 
 Services
 ------------------------------
+The next item on the service catalogue sub-menu is the ``Services link``. The National Administrator clicks this link that brings up grid listing services with view button to view and edit details of a particular service. To the top right of services listing view is the ``Add Service`` button. The National Administrator clicks this button to add a new service.
 
 .. figure:: /_images/national_admin/06_c_services.png
     :scale: 100%
     :alt: List Services
+
+On clicking of the ``Add Service link`` the view below is brought up, consisting of a form where the National Administrator input the details of the new service including: name, category, option group and brief description of the health service. When finished the user clicks the save button to save the new service and its details.
 
 .. figure:: /_images/national_admin/06_d_save_new_service.png
     :scale: 100%
