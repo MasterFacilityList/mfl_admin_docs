@@ -335,7 +335,7 @@ In the screen that follows, the CHRIO fills in the reason for approving or rejec
 
 Listing Approved Community Health Units
 -----------------------------------------------
-Community Health Units that have been approved can be seen through clicking the ``Approved Units`` link the side bar
+Community Health Units that have been approved can be seen through clicking the ``Approved Units`` link in the side bar
 as the screen below shows.
 
 
