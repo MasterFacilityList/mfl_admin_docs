@@ -118,9 +118,15 @@ below show:
 
 
 
-Approved and Rejected Facilties
+Approved and Rejected Facilities
 +++++++++++++++++++++++++++++++++++++++++++
-TODO
+Once a facility is created or updated, it has to be approved by the County
+Health Records Information Officer (CHRIO).
+
+To see the facilities that have been approved or those that have been rejected,
+the user should click on the ``approved facilities`` and the
+``rejected facilities`` tabs respectively on the side bar as the screen below
+shows.
 
 .. figure:: /_images/schrio/4_a_approved_facilities.png
     :scale: 100%
@@ -130,7 +136,9 @@ TODO
 
 Closed Facilities
 +++++++++++++++++++++++++++++++++++++++++
-TODO
+To list the facilities that have been closed, the user should click on the
+``closed facilities`` tab on the side bar. The screen below illustrates that
+action.
 
 .. figure:: /_images/schrio/5_closed_facilities_list.png
     :scale: 100%
@@ -138,54 +146,46 @@ TODO
 
 
 
-Upgrading/Downgrading Of a Facility
-++++++++++++++++++++++++++++++++++++++++++
-TODO
-
-
-.. figure:: /_images/schrio/06_a_facilities_upgrade_downgrade.png
-    :scale: 100%
-    :alt: The Facilities Grid
-
-.. figure:: /_images/schrio/06_b_facilities_upgrade_downgrade.png
-    :scale: 100%
-    :alt: The Facility Read Only View
-
-.. figure:: /_images/schrio/06_c_facilities_upgrade_downgrade.png
-    :scale: 100%
-    :alt: The Upgrade and Downgrade Button
-
-.. figure:: /_images/schrio/06_d_facilities_upgrade_downgrade.png
-    :scale: 100%
-    :alt: The Upgrade and Downgrade Page
-
-
 
 Facility Officer's Management
-+++++++++++++++++++++++++++++++++++++++
-TODO
+++++++++++++++++++++++++++++++
+The Sub-county Health Records information officer can create users with read only
+rights to view facilities in the MFL administration system.
+These users are referred to as facility officers.
+
 
 Listing Users (Facility Officers)
--------------------------------------
-TODO
+++++++++++++++++++++++++++++++++++++
+To list facility officers the SCHRIO should click on the users tab on the main
+nagivation bar.
 
 .. figure:: /_images/schrio/7_a_add_user.png
     :scale: 100%
     :alt: Listing Users
 
 
-Basic details
---------------------------
-TODO
+Adding Facility Officers
++++++++++++++++++++++++++
+From the facility officers list screen above, the SCHRIO should click on the
+``Add User`` button. On clicking the button a screen with three section
+labeled 1-3 appears.
+
+1) Basic details
+-----------------
+This is the first section of adding a facility officer. The primary details (
+names, email, employee number and password) are entered in this section.
 
 .. figure:: /_images/schrio/7_d_user_basic_details.png
     :scale: 100%
     :alt: Add Facility Officer Basic Details
 
 
-User Contacts
----------------------
-TODO
+2) User Contacts
+------------------
+In this section the facility officer's contacts are captured.
+The contacts can be as many as the officer has and could range from phone number,
+email to postal address among others.
+
 
 .. figure:: /_images/schrio/7_b_add_user_contacts.png
     :scale: 100%
@@ -194,23 +194,31 @@ TODO
 
 Assign Officer to Group
 ----------------------------
-TODO
+This is the final section to adding the facility officer.
+The SCHRIO assigns the officer the *facility officer group* and clicks the
+``Update`` button.
 
 .. figure:: /_images/schrio/7_c_add_user_group.png
     :scale: 100%
-    :alt: Add Facility Officer Contacts
+    :alt: Add Facility Officer Group
+
+The SCHRIO is redirected to the list of users screen and the created officer
+appears in the list. This is an indication that the officer has been created
+and can login to the system.
 
 .. figure:: /_images/schrio/7_e_user_created_shown_in_usr_grid.png
     :scale: 100%
     :alt: Facility Officer Created and Shown in Grid
 
-Creating Community Health Units
+
+Community Health Units Management
 +++++++++++++++++++++++++++++++++++++++
-TODO
+The SCHRIO is also charged with managing Community Health Units.
 
 Listing Community Health Units
 -----------------------------------
-TODO
+To list community health units the SCHRIO click on the
+``Community Health Units`` tab on the main navigation bar.
 
 .. figure:: /_images/schrio/8_a_chu_list.png
     :scale: 100%
@@ -219,36 +227,51 @@ TODO
 
 Creating Community Health Units
 ------------------------------------
-TODO
+Creating Community Health Units is a two step process.
+From the Community Health Units list screen the SCHRIO clicks on ``Add Unit``
+button.
 
 Basic Details
 -------------------------
-TODO
+This is the first section where the primary details of the community health
+unit are captured. The details include: name, linked health facility, households
+monitored and the contacts
 
 .. figure:: /_images/schrio/8_b_add_community_unit_basic_details.png
     :scale: 100%
     :alt: Fill in a Community Units Basic Details
 
 
-
 Adding Community health Extension Workers
 -------------------------------------------
-TODO
+This is the second and final step. In this section the Community Heath Extension
+workers belonging to the Community Health Unit are added.
 
 .. figure:: /_images/schrio/8_c_add_community_health_workers.png
     :scale: 100%
     :alt: Add CHEWs to a Community Unit
 
+After successfully creation of  community health unit, the created unit should
+appear on the community health unit list screen.
+
 
 Updating Community Health Units
 ++++++++++++++++++++++++++++++++++++++++
-
-TODO
-
+Updating a community health Unit is similar to the adding a community health
+unit process
 
 Approved/Rejected Community Health Units
 ++++++++++++++++++++++++++++++++++++++++++++
-TODO
+Just like the facilities, a created/updated community health unit has to be
+approved by the CHRIO before the updated details can be seen by the public.
+*However, this applies for community health units that have been approved before.
+For community health units that have not been been approved, updates made to
+them reflect on the public immediately.*
+
+To list the approved units, the SCHRIO should click on the ``approved units``
+tab from the side bar.
+Similary, to list the rejected community health units, the SCHRIO clicks on the
+``rejected units`` tab on the side bar.
 
 .. figure:: /_images/schrio/8_d_chu_approved_rejected.png
     :scale: 100%
