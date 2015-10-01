@@ -27,8 +27,8 @@ edit details of the same.
 Constituency Management
 +++++++++++++++++++++++++++++++++++
 The next link on the sidebar is the ``Constituencies link``. The National
-Administrator can carry out the same tasks as in County, where the there's
-a ``Add Constituency`` button in the top right of the image below.
+Administrator can carry out the same tasks as in County, using the
+``Add Constituency`` button in the top right of the image below.
 To view and edit details of a constituency the user clicks the View button
 in the grid aligned to the particular constituency record of interest to the user.
 
@@ -111,7 +111,7 @@ button on the top right of the screen.
 On clicking the ``Add Category link`` the view below is brought up, for
 user to enter the details of the new service category including:
 category name, abbreviation, KEPH level and a brief description of the same.
-The National Administration then clicks the Save button below the form to
+The National Administration then clicks the ``Save`` button below the form to
 save details of the new service category.
 
 .. figure:: /_images/national_admin/06_b_save_new_category.png
@@ -153,11 +153,11 @@ that the National Administrator clicks to add a new option group.
     :alt: List Option Groups
 
 On clicking the ``Add Option Group link`` the view below is brought up with a
-form where the National Administrator enters the details of the new Option Group
+form where the National Administrator enters the details of the new option group
 being created including the option name, and options within the option groups.
 The National Administrator clicks the ``Add button`` to add a new row where
 details of an option including its type, display text and value can be entered.
-Finally to save the details the National Administrator clicks the save button.
+Finally to save the details the National Administrator clicks the ``save`` button.
 
 .. figure:: /_images/national_admin/06_f_save_new_option_group.png
     :scale: 100%
@@ -186,8 +186,8 @@ Departments are the various sections in a facility that may have different regul
 from the main facility. They serve as choices when entering a facility's
 regulation.
 
-Facility departments are available at the facility departments section of the system
-setup.
+Facility departments are available at the ``facility departments`` section of the ``system
+setup``.
 
 .. figure:: /_images/national_admin/08_facility_department.png
     :scale: 100%
@@ -203,7 +203,7 @@ New entries can be added while existing ones can be updated or removed.
 Public Feedback on Facilities
 +++++++++++++++++++++++++++++++++++++++
 Users of the public side of MFL can rate and comment on facility services. This feedback is available
-on the rating comments section of the system setup.
+on the ``rating comments`` section of the ``system setup``.
 
 .. figure:: /_images/national_admin/09_rating_comments.png
     :scale: 100%
@@ -212,8 +212,8 @@ on the rating comments section of the system setup.
 
 Facility Owner Categories
 ++++++++++++++++++++++++++
-These are the categories in which facility owners are grouped. They can be accessed in the facility owner
-categories section of the system setup.
+These are the categories in which facility owners are grouped. They can be accessed in the ``facility owner
+categories`` section of the ``system setup``.
 
 .. figure:: /_images/national_admin/10_b_owner_categories.png
     :scale: 100%
@@ -228,8 +228,8 @@ Existing entries can be updated or removed while new categories can be added.
 
 Facility Owners
 ++++++++++++++++
-These are individual owners of facilities. They are tied to a facility category. The facility owners
-section of the system setup manages them.
+These are individual owners of facilities. They are tied to a facility category. The ``facility owners``
+section of the ``system setup`` manages them.
 
 .. figure:: /_images/national_admin/10_facility_owners.png
     :scale: 100%
@@ -245,7 +245,7 @@ New entries can be added while existing ones updated or removed.
 Job Title Management
 +++++++++++++++++++++++++++++++++++++
 These are job titles used when entering information e.g. facility officers. They can be managed via the
-job titles section of system setup.
+``job titles`` section of ``system setup``.
 
 .. figure:: /_images/national_admin/11_a_job_titles.png
     :scale: 100%
@@ -263,13 +263,13 @@ Regulatory Body Management
 Regulatory bodies are the ones that register and regulate facilities. They give MFL updates
 on facility's regulation status.
 
-Their management can be accessed via the regulatory bodies section of the system setup.
+Their management can be accessed via the ``regulatory bodies`` section of the ``system setup``.
 
 .. figure:: /_images/national_admin/12_a_save_new_reguatory_body.png
     :scale: 100%
     :alt: Create a new Regulatory Body
 
-New bodies can be added while existing ones update or removed.
+New bodies can be added while existing ones updated or removed.
 
 .. figure:: /_images/national_admin/12_regulatory_bodies.png
     :scale: 100%
@@ -279,12 +279,11 @@ New bodies can be added while existing ones update or removed.
 Upgrade/Downgrade Reasons Management
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 These are the reasons used by CHRIOS/SCHRIOS when upgrading or downgrading
-facilities. They can be accessed from the Reasons section of system setup.
+facilities. They can be accessed from the ``Reasons`` section of ``system setup``.
 
 .. figure:: /_images/national_admin/13_resons_for_upgrade_and_downgrade.png
     :scale: 100%
     :alt: List Upgrade/Downgrade Reasons
-
 
 Reasons can be created, updated or removed.
 
@@ -295,8 +294,8 @@ Reasons can be created, updated or removed.
 
 KEPH Levels Management
 ++++++++++++++++++++++
-Facility KEPH levels can be managed from the KEPH Levels section of the
-system setup.
+Facility KEPH levels can be managed from the ``KEPH Levels`` section of the
+``system setup``.
 
 .. figure:: /_images/national_admin/14_keph_levels.png
     :scale: 100%
@@ -312,7 +311,7 @@ New KEPH levels can be created while existing ones can be updated or removed.
 Public Feedback on Community Units
 ++++++++++++++++++++++++++++++++++++
 Feedback given by users of the public side of MFL can be viewed by administrator.
-This can be accessed by visiting the CHU rating comments section in system setup.
+This can be accessed by visiting the ``CHU rating comments`` section in ``system setup``.
 
 .. figure:: /_images/national_admin/15_chu_rating_comments.png
     :scale: 100%
@@ -325,7 +324,7 @@ Documents are extra supplimentary material provided that accompany the MFL e.g.
 the Implementation Guide.
 
 The national administrator can create, view, update and delete such documents.
-To manage documents, select the documents section in the system setup screen.
+To manage documents, select the ``documents`` section in the ``system setup`` screen.
 
 The first screen shows a list of the available documents in MFL.
 
@@ -344,13 +343,13 @@ and file of the new document.
 Geo-code Method Management
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 Geo-code methods are the methods used to collect facility geo-coordinates. To manage them,
-select the geocode methods section in system setup.
+select the ``geocode methods`` section in ``system setup``.
 
 .. figure:: /_images/national_admin/17_geo_code_method.png
     :scale: 100%
     :alt: List Geo-Code Methods
 
-To create a new method, select the add geocode method button and fill in the details in the
+To create a new method, select the ``add geocode method`` button and fill in the details in the
 resulting screen.
 
 .. figure:: /_images/national_admin/17_b_save_new_geo_code_method.png
@@ -361,7 +360,7 @@ resulting screen.
 Geo-Code Source Management
 ++++++++++++++++++++++++++++++++++++++++++++
 Geo-code sources are the origins of the facility geo-coordinates. They accessible via the
-geocode sources section in system setup.
+``geocode sources`` section in ``system setup``.
 
 .. figure:: /_images/national_admin/18_geo-code-sources.png
     :scale: 100%
@@ -380,15 +379,15 @@ A group is a collection of permissions that is assigned to users. Permissons
 are not assigned to users directly. Users are assigned groups and get the
 permissions in the assigned group.
 
-To manage groups, click on the users link in the top navigation bar. In the
-resulting screen, select groups in the left navigation bar. This will show a list
+To manage groups, click on the ``users`` link in the top navigation bar. In the
+resulting screen, select ``groups`` in the left navigation bar. This will show a list
 of groups in the system.
 
 .. figure:: /_images/national_admin/20_groups.png
     :scale: 100%
     :alt: List user Roles
 
-To create a group select the add group link in while in the group listing page. To
+To create a group select the ``add group`` link in while in the group listing page. To
 edit an existing group, select the group by clicking on the group's name.
 
 .. figure:: /_images/national_admin/20_b_create_new_group.png
@@ -399,10 +398,10 @@ edit an existing group, select the group by clicking on the group's name.
 User Management
 ++++++++++++++++
 The national administrator can be able to view all users in the system. To access user
-management, select users in the top navigation bar. The resulting screen shows a
+management, select ``users`` in the top navigation bar. The resulting screen shows a
 list of users in the system.
 
-To create a new user, click the add user button.
+To create a new user, click the ``add user button``.
 
 .. figure:: /_images/national_admin/21_list_users.png
     :scale: 100%
