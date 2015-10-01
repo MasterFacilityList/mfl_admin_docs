@@ -285,7 +285,7 @@ The user is deleted and nolonger appears in the users' list.
 
 
 Community Health Units (CHUs) Management
-++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++
 It is the duty of the Community Health Records Information Officer to approve community health units when they meet
 the required standards and reject them if they don't.
 
