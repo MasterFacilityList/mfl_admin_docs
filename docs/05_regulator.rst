@@ -6,7 +6,7 @@ facilities.
 Listing Facilities
 +++++++++++++++++++++++++++++
 
-A regulatory user is only allowed to see facilities under thier regulatory
+A regulatory user is only allowed to see facilities under their regulatory
 body. E.g a regulatory user belonging to Kenya Medical Practitioners and
 Dentists Board (KMPDB) will only see facilities regulated by by KMPDB.
 
