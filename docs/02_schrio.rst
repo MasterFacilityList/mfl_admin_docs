@@ -217,7 +217,7 @@ and can login to the system.
 
 Creating Community Health Units
 +++++++++++++++++++++++++++++++++++++++
-The SCHRIO is also charged with manageing Community Health Units.
+The SCHRIO is also charged with managing Community Health Units.
 
 Listing Community Health Units
 -----------------------------------
