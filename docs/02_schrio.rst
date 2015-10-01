@@ -149,7 +149,7 @@ action.
 
 Facility Officer's Management
 ++++++++++++++++++++++++++++++
-The Suc-county Health Records information officer can create users with read only
+The Sub-county Health Records information officer can create users with read only
 rights to view facilities in the MFL administration system.
 These users are referred to as facility offficers.
 
@@ -182,9 +182,9 @@ names, email, employee number and password) are entered in this section.
 
 2) User Contacts
 ------------------
-In this section the facility officer contacts are captured.
+In this section the facility officer's contacts are captured.
 The contacts can be as many as the officer has and could range from phone number,
-email to postal address.
+email to postal address among others.
 
 
 .. figure:: /_images/schrio/7_b_add_user_contacts.png
@@ -211,7 +211,7 @@ and can login to the system.
     :alt: Facility Officer Created and Shown in Grid
 
 
-Creating Community Health Units
+Community Health Units Management
 +++++++++++++++++++++++++++++++++++++++
 The SCHRIO is also charged with managing Community Health Units.
 
@@ -228,13 +228,13 @@ To list community health units the SCHRIO click on the
 Creating Community Health Units
 ------------------------------------
 Creating Community Health Units is a two step process.
-From the COmmunity
-Health Units list screen the SCHRIO clicks on ``Add Unit`` button.
+From the Community Health Units list screen the SCHRIO clicks on ``Add Unit``
+button.
 
 Basic Details
 -------------------------
 This is the first section where the primary details of the community health
-unit are captured. This includes: name, linked health facility, households
+unit are captured. The details include: name, linked health facility, households
 monitored and the contacts
 
 .. figure:: /_images/schrio/8_b_add_community_unit_basic_details.png
@@ -242,11 +242,10 @@ monitored and the contacts
     :alt: Fill in a Community Units Basic Details
 
 
-
 Adding Community health Extension Workers
 -------------------------------------------
 This is the second and final step. In this section the Community Heath Extension
- workers belonging to the Community Health Unit are added.
+workers belonging to the Community Health Unit are added.
 
 .. figure:: /_images/schrio/8_c_add_community_health_workers.png
     :scale: 100%
@@ -258,16 +257,20 @@ appear on the community health unit list screen.
 
 Updating Community Health Units
 ++++++++++++++++++++++++++++++++++++++++
-Updating a community health Unit is similar to the adding process
+Updating a community health Unit is similar to the adding a community health
+unit process
 
 Approved/Rejected Community Health Units
 ++++++++++++++++++++++++++++++++++++++++++++
-Just the facilities, a created/updated community health unit has to be approved
-by the CHRIO.
+Just like the facilities, a created/updated community health unit has to be
+approved by the CHRIO before the updated details can be seen by the public.
+*However, this applies for community health units that have been approved before.
+For community health units that have not been been approved, updates made to
+them reflect on the public immediately.*
 
 To list the approved units, the SCHRIO should click on the ``approved units``
 tab from the side bar.
-Similary to list the rejected community health units, the SCHRIO clicks on the
+Similary, to list the rejected community health units, the SCHRIO clicks on the
 ``rejected units`` tab on the side bar.
 
 .. figure:: /_images/schrio/8_d_chu_approved_rejected.png
