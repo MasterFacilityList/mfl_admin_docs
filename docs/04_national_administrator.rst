@@ -96,10 +96,14 @@ On clicking of the ``Add Service link`` the view below is brought up, consisting
 
 Option Groups
 -------------------------------
+The final item on the service catalogue sub-menu is the ``Option Group link``.
+The National Administrator clicks this link to list the option groups. Each record in the inlist has a view button, which the National Administrator clicks to view and or edit the details of the option group. On the top right of the option list view is the ``Add Option Group link`` that the National Administrator clicks to add a new option group.
 
 .. figure:: /_images/national_admin/06_e_option_groups.png
     :scale: 100%
     :alt: List Option Groups
+
+On clicking the ``Add Option Group link`` the view below is brought up with a form where the National Administrator enters the details of the new Option Group being created including the option name, and options within the option groups. The National Administrator clicks the ``Add button`` to add a new row where details of an option including its type, display text and value can be entered. Finally to save the details the National Administrator clicks the save button.
 
 .. figure:: /_images/national_admin/06_f_save_new_option_group.png
     :scale: 100%
