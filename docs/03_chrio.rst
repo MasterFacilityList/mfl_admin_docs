@@ -28,13 +28,13 @@ the resulting facilities into an excel file as the screen below shows.
 Approving/Rejecting Facilities
 ++++++++++++++++++++++++++++++++++++++
 After the Sub-County Health Records Information Officer(SCHRIO) has registered a new or
-updated an existing facility, the facility has to be approved by the CHRIO for it on reflect
-the public side. The CHRIO may  choose to approve or reject the facility. If the CHRIO
-rejects a facility, the changes are rolled-back and the old details are retained.
+updated an existing facility, the facility has to be approved by the CHRIO.
+The CHRIO may  choose to approve or reject the facility. If the CHRIO
+rejects a facility, the changes are discarded and the old details are retained.
 
 Listing Facilities Pending Approval
 ------------------------------------------
-To list the facilities pending approval, CHRIO clicks on the ``facilitiies pending approval``
+To list the facilities pending approval, CHRIO clicks on the ``facilities pending approval``
 tab on the side bar as the screen below shows.
 
 
@@ -56,15 +56,15 @@ clicks on the desired facility. A screen such as the one shown below appears.
 
 Approving/Rejecting Facility Updates
 -------------------------------------------------
-From the list of facilities pending approval screen, the CHRIO clicks on the desired facilty.
-A sreen with details on the  facility selected appears and the officer clicks on the ``Approve/Reject``
+From the list of facilities pending approval screen, the CHRIO clicks on the desired facility.
+A screen with details on the  facility selected appears and the officer clicks on the ``Approve/Reject``
 button as the image below illustrates.
 
 .. figure:: /_images/chrio/03_approve_facility_updates.png
     :scale: 100%
     :alt: Approve Newly Created Facilities
 
-When the aprove/reject button is clicked, another screen appears showing the details of the facility that
+When the approve/reject button is clicked, another screen appears showing the details of the facility that
 have been updated.
 At the bottom of the screen, the CHRIO can choose to either approve or reject the updates.
 
@@ -87,7 +87,7 @@ Once facilities are approved, they go to the approved facilities list which can 
 
 Listing Rejected Facilities
 -------------------------------------------
-Similary, rejected facilities go to the rejected facilities list which can be retrieved through clicking
+Similarly, rejected facilities go to the rejected facilities list which can be retrieved through clicking
 the ``Rejected Facilities`` tab on the side-bar.
 
 .. figure:: /_images/chrio/05_b_rejected_facilities.png
@@ -96,7 +96,7 @@ the ``Rejected Facilities`` tab on the side-bar.
 
 
 
-Publishing Facilties
+Publishing Facilities
 +++++++++++++++++++++++++++++++++++++++++++
 
 Once facilities are approved, the next step is to publish them in order to make them visible to the public.
@@ -120,7 +120,7 @@ Once the facility is published, it can be seen by the public.
 
 Unpublishing a facility
 ---------------------------------
-To unpublish a faclity, the CHRIO selects the disired facility from a list of facilities
+To unpublish a facility, the CHRIO selects the desired facility from a list of facilities
 and a screen with the details of the selected facility comes up.
 
 
@@ -190,7 +190,7 @@ should click on the ``Add User`` button on the user list as the screen above ind
 1) User basic details
 ------------------------
 In this section the CHRIO enters the primary details of the SCHRIO such as the name, email, employee number
-and password and clicks on the ``User Contacts`` button on the bottom of the screen12.
+and password and clicks on the ``User Contacts`` button on the bottom of the screen.
 
 .. figure:: /_images/chrio/09_b_user_basic_details.png
     :scale: 100%
@@ -256,7 +256,7 @@ Updating a SCHRIO's details is similar to adding the SCHRIO.
 
 **Deactivating a user**
 
-To deativate the SCHRIO the CHRIO *unchecks* the ``Is Active`` button on the update user form.
+To deactivate the SCHRIO the CHRIO *unchecks* the ``Is Active`` button on the update user form.
 
 
 Deleting a user
@@ -276,7 +276,7 @@ delete the user, they click on the ``Delete`` button.
     :scale: 100%
     :alt: Delete User
 
-The user is deleted and nolonger appears in the users' list.
+The user is deleted and no-longer appears in the users' list.
 
 .. figure:: /_images/chrio/10_e_user_delete.png
     :scale: 100%
@@ -300,7 +300,7 @@ below shows.
 
 Approval/Rejection of Community Health Units
 +++++++++++++++++++++++++++++++++++++++++++++++++++
-Just like facilities, newly created community health units have to be approved before they can be seen by the public.
+Newly created community health units have to be approved before they can be seen by the public.
 
 
 Listing Units Pending Approval
@@ -335,7 +335,7 @@ In the screen that follows, the CHRIO fills in the reason for approving or rejec
 
 Listing Approved Community Health Units
 -----------------------------------------------
-Community Health Units that have been approved can be seen through clickin the ``Approved Units`` link the side bar
+Community Health Units that have been approved can be seen through clicking the ``Approved Units`` link the side bar
 as the screen below shows.
 
 
