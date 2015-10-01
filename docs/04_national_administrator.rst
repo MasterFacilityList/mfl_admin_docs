@@ -1,10 +1,20 @@
 The National Adminstrator Role
 ==================================
-TODO
+This is the officer who operates at the national level.
+
+**The main responsibility include:**
+    #. User account management
+    #. User Roles management
+    #. Management of all matters regarding system setup
+
+.. note::
+    In order to try out the functions contained in this section, it is assumed that
+    one has read the :doc:`01_intro` section and has logged into the system.
 
 County Management
 +++++++++++++++++++++++++++++++++++
-TODO
+To begin on system setup a logged in user should click the
+``System Setup link`` on the main navigation bar this opens up a view with County link on the sidebar highlighted listing all Counties. On the top right of the screen below a user can click the Add County button to add a new county or click view in the list to view a particular county and to edit details of the same.
 
 .. figure:: /_images/national_admin/01_initial_system_configuration_counties.png
     :scale: 100%
@@ -12,7 +22,7 @@ TODO
 
 Constituency Management
 +++++++++++++++++++++++++++++++++++
-TODO
+The next link on the sidebar is the ``Constituency link``. A logged in user can carry out the same tasks as in County, where the there's an Add Constituency button in the top right of the image below. To view and edit details of a constituency the user clicks the View button in the grid aligned to the particular Constituency record of interest to the user.
 
 .. figure:: /_images/national_admin/02_sys_config_constituencies.png
     :scale: 100%
@@ -21,7 +31,7 @@ TODO
 
 Sub-County Management
 +++++++++++++++++++++++++++++++++++
-TODO
+To manage Sub-counties, a logged in user clicks ``Sub-County link`` on the sidebar that list all sub-counties with a view button. The user clicks the view button if they would like to view details of the single Sub-county or edit details of the same. To the top right of the Sub-county list is the Add sub-county button which user clicks to take them to the view where they input details of a new Sub-county and save these details.
 
 .. figure:: /_images/national_admin/03_sub_counties.png
     :scale: 100%
