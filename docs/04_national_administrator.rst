@@ -183,7 +183,7 @@ Upgrade/Downgrade Reasons Management
 
 
 KEPH Levels Management
-+++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++
 
 .. figure:: /_images/national_admin/14_keph_levels.png
     :scale: 100%
@@ -196,6 +196,8 @@ KEPH Levels Management
 
 Public Feedback on Community Units
 ++++++++++++++++++++++++++++++++++++
+Feedback given by users of the public side of MFL can be viewed by administrator.
+This can be accessed by visiting the CHU rating comments section in system setup.
 
 .. figure:: /_images/national_admin/15_chu_rating_comments.png
     :scale: 100%
@@ -204,10 +206,20 @@ Public Feedback on Community Units
 
 Document Management
 +++++++++++++++++++++++++++++++++++++++++++++++++
+Documents are extra supplimentary material provided that accompany the MFL e.g.
+the Implementation Guide.
+
+The national administrator can create, view, update and delete such documents.
+To manage documents, select the documents section in the system setup screen.
+
+The first screen shows a list of the available documents in MFL.
 
 .. figure:: /_images/national_admin/16_documents.png
     :scale: 100%
     :alt: List Documents
+
+To create a new document, select the add document button and provide the name, description
+and file of the new document.
 
 .. figure:: /_images/national_admin/16_b_save_new_document.png
     :scale: 100%
@@ -216,10 +228,15 @@ Document Management
 
 Geo-code Method Management
 +++++++++++++++++++++++++++++++++++++++++++++++++++
+Geo-code methods are the methods used to collect facility geo-coordinates. To manage them,
+select the geocode methods section in system setup.
 
 .. figure:: /_images/national_admin/17_geo_code_method.png
     :scale: 100%
     :alt: List Geo-Code Methods
+
+To create a new method, select the add geocode method button and fill in the details in the
+resulting screen.
 
 .. figure:: /_images/national_admin/17_b_save_new_geo_code_method.png
     :scale: 100%
@@ -228,10 +245,14 @@ Geo-code Method Management
 
 Geo-Code Source Management
 ++++++++++++++++++++++++++++++++++++++++++++
+Geo-code sources are the origins of the facility geo-coordinates. They accessible via the
+geocode sources section in system setup.
 
 .. figure:: /_images/national_admin/18_geo-code-sources.png
     :scale: 100%
     :alt: List Geo-code Sources
+
+The add geocode sources link brings up a screen to create a new geocode source.
 
 .. figure:: /_images/national_admin/18_b_save_new_geo_source_code.png
     :scale: 100%
