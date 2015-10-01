@@ -6,7 +6,7 @@ facilities.
 Listing Facilities
 +++++++++++++++++++++++++++++
 
-A regulatory user is only allowed to see facilities under his/her regulatory
+A regulatory user is only allowed to see facilities under thier regulatory
 body. E.g a regulatory user belonging to Kenya Medical Practitioners and
 Dentists Board (KMPDB) will only see facilities regulated by by KMPDB.
 
@@ -23,7 +23,6 @@ Updating the Regulatory Details of A Facility
 
 List Unregulated Facilities
 ------------------------------
-First the user list the unregulated facilities.
 To do this the user should click on ``regulate facilities`` tab on the side-bar.
 Below is a screen showing expected results.
 

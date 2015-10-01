@@ -151,7 +151,7 @@ Facility Officer's Management
 ++++++++++++++++++++++++++++++
 The Sub-county Health Records information officer can create users with read only
 rights to view facilities in the MFL administration system.
-These users are referred to as facility offficers.
+These users are referred to as facility officers.
 
 
 Listing Users (Facility Officers)
@@ -164,11 +164,11 @@ nagivation bar.
     :alt: Listing Users
 
 
-Adding Facility Offficers
+Adding Facility Officers
 +++++++++++++++++++++++++
 From the facility officers list screen above, the SCHRIO should click on the
-``Add User`` button. On clicking the button as creen with three section
-labeled 1-3 apears.
+``Add User`` button. On clicking the button a screen with three section
+labeled 1-3 appears.
 
 1) Basic details
 -----------------
