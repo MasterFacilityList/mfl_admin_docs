@@ -86,7 +86,7 @@ after which they click the Save button in order to save the town as shown below.
 
 
 Service Catalog Management
-+++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++
 Another task of the National Administrator includes management of the
 service catalogue. The service catalogue constitutes: service categories,
 health services and service options. The link to manage these three items
@@ -260,10 +260,16 @@ New titles can be created while existing ones updated or removed.
 
 Regulatory Body Management
 ++++++++++++++++++++++++++++++++++++++++
+Regulatory bodies are the ones that register and regulate facilities. They give MFL updates
+on facility's regulation status.
+
+Their management can be accessed via the regulatory bodies section of the system setup.
 
 .. figure:: /_images/national_admin/12_a_save_new_reguatory_body.png
     :scale: 100%
     :alt: Create a new Regulatory Body
+
+New bodies can be added while existing ones update or removed.
 
 .. figure:: /_images/national_admin/12_regulatory_bodies.png
     :scale: 100%
@@ -272,10 +278,15 @@ Regulatory Body Management
 
 Upgrade/Downgrade Reasons Management
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+These are the reasons used by CHRIOS/SCHRIOS when upgrading or downgrading
+facilities. They can be accessed from the Reasons section of system setup.
 
 .. figure:: /_images/national_admin/13_resons_for_upgrade_and_downgrade.png
     :scale: 100%
     :alt: List Upgrade/Downgrade Reasons
+
+
+Reasons can be created, updated or removed.
 
 .. figure:: /_images/national_admin/13_b_save_new_reason.png
     :scale: 100%
