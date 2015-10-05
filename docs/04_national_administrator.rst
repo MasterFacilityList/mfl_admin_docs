@@ -1,4 +1,4 @@
-The National Adminstrator Role
+The National Administrator Role
 ==================================
 This is the officer who operates at the national level.
 
