@@ -387,7 +387,7 @@ of groups in the system.
     :scale: 100%
     :alt: List user Roles
 
-To create a group select the add group link in while in the group Viewing page. To
+To create a group select the add group link in while in the groups viewing page. To
 
 edit an existing group, select the group by clicking on the group's name.
 
