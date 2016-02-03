@@ -138,7 +138,7 @@ The CHRIO should click on the ``unpublish`` button on the new screen and the fac
 
 Closing Facilities
 +++++++++++++++++++++++++
-To close a facility, the CHRIO can start by Viewing facilities.
+To close a facility, the CHRIO can start by viewing facilities.
 
 .. figure:: /_images/chrio/07_a_closing_a_facility.png
     :scale: 100%
