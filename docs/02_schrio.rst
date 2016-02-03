@@ -13,7 +13,7 @@ This is the officer who operates at the Sub-county level.
     one has read the :doc:`01_intro` section and has logged into the system.
 
 
-Listing Facilities in User's Sub-County
+Viewing Facilities in User's Sub-County
 +++++++++++++++++++++++++++++++++++++++++++++
 To list facilities in the logged in user's sub-county one should click on
 the facilities link in the main navigation bar. The diagram below illustrates
@@ -21,7 +21,7 @@ this action.
 
 .. figure:: /_images/schrio/01_list_list_facilities_grid.png
     :scale: 100%
-    :alt: Listing Facilities in the Sub-county
+    :alt: Viewing Facilities in the Sub-county
 
 
 Creating Facilities
@@ -96,7 +96,7 @@ It is at this screen that the user can also print the facility's **cover report.
 
 Updating a Facilty's Details
 ++++++++++++++++++++++++++++++++++++++
-To update a facility, one can start by listing all facilities, then picking the
+To update a facility, one can start by Viewing all facilities, then picking the
 desired facility from the list as shown below.
 
 .. figure:: /_images/schrio/3_a_edit_facility.png
@@ -154,14 +154,14 @@ rights to view facilities in the MFL administration system.
 These users are referred to as facility officers.
 
 
-Listing Users (Facility Officers)
+Viewing Users (Facility Officers)
 ++++++++++++++++++++++++++++++++++++
 To list facility officers the SCHRIO should click on the users tab on the main
 nagivation bar.
 
 .. figure:: /_images/schrio/7_a_add_user.png
     :scale: 100%
-    :alt: Listing Users
+    :alt: Viewing Users
 
 
 Adding Facility Officers
@@ -215,14 +215,14 @@ Community Health Units Management
 +++++++++++++++++++++++++++++++++++++++
 The SCHRIO is also charged with managing Community Health Units.
 
-Listing Community Health Units
+Viewing Community Health Units
 -----------------------------------
 To list community health units the SCHRIO click on the
 ``Community Health Units`` tab on the main navigation bar.
 
 .. figure:: /_images/schrio/8_a_chu_list.png
     :scale: 100%
-    :alt: Listing Community Health Units
+    :alt: Viewing Community Health Units
 
 
 Creating Community Health Units
