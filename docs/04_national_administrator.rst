@@ -15,7 +15,7 @@ County Management
 +++++++++++++++++++++++++++++++++++
 To begin on system setup a logged in user should click the
 ``System Setup link`` on the main navigation bar this opens up a view with
-``Counties link`` on the sidebar highlighted listing all Counties. On the top right of the screen below a user can click the Add County button to add a new county or click view in the list to view a particular county and to edit details of the same.
+``Counties link`` on the sidebar highlighted Viewing all Counties. On the top right of the screen below a user can click the Add County button to add a new county or click view in the list to view a particular county and to edit details of the same.
 
 .. figure:: /_images/national_admin/01_initial_system_configuration_counties.png
     :scale: 100%
@@ -286,7 +286,7 @@ of groups in the system.
     :scale: 100%
     :alt: List user Roles
 
-To create a group select the add group link in while in the group listing page. To
+To create a group select the add group link in while in the group Viewing page. To
 edit an existing group, select the group by clicking on the group's name.
 
 .. figure:: /_images/national_admin/20_b_create_new_group.png

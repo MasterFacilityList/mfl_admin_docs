@@ -12,7 +12,7 @@ The CHRIO operates at the county level and is tasked with the following responsi
     In order to try out the functions contained in this section, it is assumed that
     one has read the :doc:`01_intro` section and has logged into the system.
 
-Listing Facilities
+Viewing Facilities
 ++++++++++++++++++++++++++++++++++++++++
 To list facilities click on the  ``facilities`` tab in the main navigation bar.
 
@@ -22,7 +22,7 @@ the resulting facilities into an excel file as the screen below shows.
 
 .. figure:: /_images/chrio/02_all_facilities.png
     :scale: 100%
-    :alt: Listing Facilities
+    :alt: Viewing Facilities
 
 
 Approving/Rejecting Facilities
@@ -32,7 +32,7 @@ updated an existing facility, the facility has to be approved by the CHRIO.
 The CHRIO may  choose to approve or reject the facility. If the CHRIO
 rejects a facility, the changes are discarded and the old details are retained.
 
-Listing Facilities Pending Approval
+Viewing Facilities Pending Approval
 ------------------------------------------
 To list the facilities pending approval, CHRIO clicks on the ``facilities pending approval``
 tab on the side bar as the screen below shows.
@@ -75,7 +75,7 @@ At the bottom of the screen, the CHRIO can choose to either approve or reject th
 
 
 
-Listing Approved Facilities
+Viewing Approved Facilities
 -------------------------------------------
 Once facilities are approved, they go to the approved facilities list which can be viewed by clicking on the
 ``Approved Facilities`` tab on the side-bar.
@@ -85,7 +85,7 @@ Once facilities are approved, they go to the approved facilities list which can 
     :alt: Approve Newly Created Facilities
 
 
-Listing Rejected Facilities
+Viewing Rejected Facilities
 -------------------------------------------
 Similarly, rejected facilities go to the rejected facilities list which can be retrieved through clicking
 the ``Rejected Facilities`` tab on the side-bar.
@@ -138,7 +138,7 @@ The CHRIO should click on the ``unpublish`` button on the new screen and the fac
 
 Closing Facilities
 +++++++++++++++++++++++++
-To close a facility, the CHRIO can start by listing facilities.
+To close a facility, the CHRIO can start by Viewing facilities.
 
 .. figure:: /_images/chrio/07_a_closing_a_facility.png
     :scale: 100%
@@ -159,7 +159,7 @@ clicks on ``Close Facility`` button.
     :scale: 100%
     :alt: Close a facility
 
-Listing Closed Facilities
+Viewing Closed Facilities
 -----------------------------------------------
 Closed facilities can be accessed through clicking the ``closed facilities`` on the side bar
 
@@ -173,13 +173,13 @@ Managing Sub-County Health Records Officers
 The County Health Records Information Officers also has the responsibility of managing the
 sub-county health records information officers in their respective counties.
 
-Listing Users
+Viewing Users
 -------------------------------------------------
 To get the list of users, the CHRIO should click on the users tab on the main navigation bar.
 
 .. figure:: /_images/chrio/09_user_list.png
     :scale: 100%
-    :alt: Listing users
+    :alt: Viewing users
 
 
 Creation Of SCHRIOs
@@ -295,7 +295,7 @@ below shows.
 
 .. figure:: /_images/chrio/11_a_community_unit_list.png
     :scale: 100%
-    :alt: Listing all CHUs in the CHRIO's county
+    :alt: Viewing all CHUs in the CHRIO's county
 
 
 Approval/Rejection of Community Health Units
@@ -303,14 +303,14 @@ Approval/Rejection of Community Health Units
 Newly created community health units have to be approved before they can be seen by the public.
 
 
-Listing Units Pending Approval
+Viewing Units Pending Approval
 --------------------------------
 To see the community health units that are pending approval the CHRIO clicks on the ``Units Pending Approval`` tab
 from the side bar.
 
 .. figure:: /_images/chrio/11_e_community_units_pending_approval.png
     :scale: 100%
-    :alt: Listing CHUs pending approval
+    :alt: Viewing CHUs pending approval
 
 To approve a community health unit, the CHRIO selects the desired CHU from the list of CHUs pending approval.
 
@@ -333,7 +333,7 @@ In the screen that follows, the CHRIO fills in the reason for approving or rejec
 
 
 
-Listing Approved Community Health Units
+Viewing Approved Community Health Units
 -----------------------------------------------
 Community Health Units that have been approved can be seen through clicking the ``Approved Units`` link in the side bar
 as the screen below shows.
@@ -343,7 +343,7 @@ as the screen below shows.
     :scale: 100%
     :alt: Update user detail
 
-Listing Rejected Community Health Units
+Viewing Rejected Community Health Units
 ++++++++++++++++++++++++++++++++++++++++
 Rejected CHUs can be viewed by clicking on the ``Rejected Units`` tab from the side bar.
 

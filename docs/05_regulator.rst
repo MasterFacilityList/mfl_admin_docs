@@ -3,7 +3,7 @@ The Regulators Role
 This role encompasses the regulatory users who update the licensure details of
 facilities.
 
-Listing Facilities
+Viewing Facilities
 +++++++++++++++++++++++++++++
 
 A regulatory user is only allowed to see facilities under their regulatory
@@ -15,20 +15,20 @@ navigation bar as the screen below shows.
 
 .. figure:: /_images/regulator/04_list_all_facilities.png
     :scale: 100%
-    :alt: Listing Facilities
+    :alt: Viewing Facilities
 
 
 Updating the Regulatory Details of A Facility
 +++++++++++++++++++++++++++++++++++++++++++++++
 
-List Unregulated Facilities
+View Unregulated Facilities
 ------------------------------
 To do this the user should click on ``regulate facilities`` tab on the side-bar.
 Below is a screen showing expected results.
 
 .. figure:: /_images/regulator/01_unregulated_facilities.png
     :scale: 100%
-    :alt: Listing Unregulated Facilities
+    :alt: Viewing Unregulated Facilities
 
 The user then clicks on the desired facility and a screen with the facility
 details such as the one below appears.

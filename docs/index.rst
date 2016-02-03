@@ -2,7 +2,7 @@ Master Facility List Kenya Administration system Documentation
 ================================================================
 
 .. toctree::
-   :caption: Administration User Guide
+   :caption: System administration user documentation
    :glob:
 
 
