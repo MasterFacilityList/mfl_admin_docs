@@ -32,6 +32,10 @@ updated an existing facility, the facility has to be approved by the CHRIO.
 The CHRIO may  choose to approve or reject the facility. If the CHRIO
 rejects a facility, the changes are discarded and the old details are retained.
 
+.. note::
+    Once a facility is approved, it is **automatically published** to the public website
+
+
 Viewing Facilities Pending Approval
 ------------------------------------------
 To list the facilities pending approval, CHRIO clicks on the ``facilities pending approval``
@@ -93,47 +97,6 @@ the ``Rejected Facilities`` tab on the side-bar.
 .. figure:: /_images/chrio/05_b_rejected_facilities.png
     :scale: 100%
     :alt: Approve Newly Created Facilities
-
-
-
-Publishing Facilities
-+++++++++++++++++++++++++++++++++++++++++++
-
-Once facilities are approved, the next step is to publish them in order to make them visible to the public.
-Facilities that have not been published can be viewed through clicking the ``Publish Facilities`` tab on the
-side bar.
-
-.. figure:: /_images/chrio/06_facilities_pending_publishing.png
-    :scale: 100%
-    :alt: : List of facilities pending approval
-
-
-From the list of facilities that have not been published, the CHRIO selects the desired facility as the
-screen above shows. A screen allowing the CHRIO to publish the facility by clicking on the ``publish`` button
-appears.
-Once the facility is published, it can be seen by the public.
-
-.. figure:: /_images/chrio/facility_publish.png
-    :scale: 100%
-    :alt: Publish a facility
-
-
-Unpublishing a facility
----------------------------------
-To unpublish a facility, the CHRIO selects the desired facility from a list of facilities
-and a screen with the details of the selected facility comes up.
-
-
-.. figure:: /_images/chrio/06_c_facility_unpublish.png
-    :scale: 100%
-    :alt: Approve Newly Created Facilities
-
-Once the ``unpublish`` button is clicked, a screen similar to the publish screen appears.
-The CHRIO should click on the ``unpublish`` button on the new screen and the facility is removed from public view.
-
-.. figure:: /_images/chrio/06_d_facility_unpublish.png
-    :scale: 100%
-    :alt: Unpublish a published facility
 
 
 Closing Facilities
