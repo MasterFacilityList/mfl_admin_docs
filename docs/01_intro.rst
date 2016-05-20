@@ -6,13 +6,10 @@ facilities in Kenya.
 This user write-up provides guidelines of how to go about the administration
 module of the MFL.
 
-More information about the MFL is avaialable on the about
-section of the admistration system.
+More information about the KMHFL and business process is available on KMHFL Implementation `guide`_.
 
-.. figure:: /_images/chrio/01_about_mfl.png
-    :scale: 100%
-    :alt: About the Master Facility List
 
+.. _guide: http://admin.kmhfl.health.go.ke/#/downloads
 
 Login
 +++++++++++++++++++++++++++

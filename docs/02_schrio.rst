@@ -1,5 +1,14 @@
 Sub-County Health Records Officer (SCHRIO) Role
 =================================================
+.. note::
+    In order to try out the functions contained in this section, it is assumed that
+    one has read the :doc:`01_intro` section and has logged into the system and
+    also referred to the implementation guide.
+    A copy of the **KMHFL implementation guide** can be downloaded `here`_.
+
+.. _here: http://admin.kmhfl.health.go.ke/#/downloads
+
+
 This is the officer who operates at the Sub-county level.
 
 **The main responsibility include:**
@@ -8,9 +17,6 @@ This is the officer who operates at the Sub-county level.
     #. Upgrading and downgrading facilities
     #. Creating the facility officers
 
-.. note::
-    In order to try out the functions contained in this section, it is assumed that
-    one has read the :doc:`01_intro` section and has logged into the system.
 
 
 Viewing Facilities in User's Sub-County
