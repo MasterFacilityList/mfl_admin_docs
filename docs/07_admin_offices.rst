@@ -1,5 +1,13 @@
 Administration Offices
 =======================
+.. note::
+    In order to try out the functions contained in this section, it is assumed that
+    one has read the :doc:`01_intro` section and has logged into the system and
+    also referred to the implementation guide.
+    A copy of the **KMHFL implementation guide** can be downloaded `here`_.
+
+.. _here: http://admin.kmhfl.health.go.ke/#/downloads
+
 
 There are 3 types of administration offices:
 

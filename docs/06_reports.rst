@@ -1,16 +1,25 @@
 Facility Officer/Reports Role in MFL
 =========================================
+
+.. note::
+    In order to try out the functions contained in this section, it is assumed that
+    one has read the :doc:`01_intro` section and has logged into the system and
+    also referred to the implementation guide.
+    A copy of the **KMHFL implementation guide** can be downloaded `here`_.
+
+.. _here: http://admin.kmhfl.health.go.ke/#/downloads
+
+
 This is documentation for both a Facility Officer and the Reporting Role.
+
 
 **The main tasks include:**
     #. Viewing major reports.
     #. Filtering to obtain refined and more relevant data.
     #. Export reports in formats such as Excel.
 
-.. note::
-    In order to try out the functions contained in this section, it is assumed
-    that one has read the :doc:`01_intro` section and has logged into the
-    system.
+
+
 
 Reports Available
 +++++++++++++++++++++++++++++++
